@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.tcpindia.in/images/course/logo/717587.jpg)
+![MasterHead]([https://cdn.tcpindia.in/images/course/logo/717587.jpg](https://miro.medium.com/v2/resize:fit:1000/1*xYtwZbDIq5LC5pl7GSYdSw.png))
 <h1 align="center">Hi 👋, I'm Nihad Rasulzada</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
