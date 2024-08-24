@@ -110,4 +110,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihadrasulzada&theme=tokyonight" alt="GitHub Streak" /></p>
 
-![NihadRasulzada snake gif](https://github.com/NihadRasulzada/NihadRasulzada/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NihadRasulzada/NihadRasulzada/blob/output/github-contribution-grid-snake.gif)
