@@ -1,6 +1,3 @@
-Sənin README faylında bəzi düzəlişlər etmək olar ki, daha yaxşı görünüş və funksionallıq əldə olunsun. Aşağıda sənə uyğunlaşdırılmış və təkmilləşdirilmiş versiyanı təqdim edirəm:
-
-```markdown
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*xYtwZbDIq5LC5pl7GSYdSw.png)
 
 <h1 align="center">Hi 👋, I'm Nihad Rasulzada</h1>
@@ -107,4 +104,8 @@ Sənin README faylında bəzi düzəlişlər etmək olar ki, daha yaxşı görü
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihad
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihadrasulzada&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihadrasulzada&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihadrasulzada&theme=tokyonight" alt="GitHub Streak" /></p>
