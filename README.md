@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Microservices**
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/NihadRasulzada)
 - 💬 Ask me about **ASP.NET Core**
-- 📫 How to reach me: **nihad.r@itbrains.edu.az**
+- 📫 How to reach me: **dev.nihad.rasulzada@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
