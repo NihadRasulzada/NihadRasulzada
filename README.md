@@ -108,6 +108,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihadrasulzada&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihadrasulzada&theme=tokyonight" alt="GitHub Streak" /></p>
+<p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=NihadRasulzada)](https://git.io/streak-stats)
+</p>
 
 ![snake gif](https://github.com/NihadRasulzada/NihadRasulzada/blob/output/github-contribution-grid-snake.svg)
