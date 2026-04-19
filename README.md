@@ -108,7 +108,7 @@ email:      dev.nihad.rasulzada@outlook.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihadrasulzada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihadrasulzada&show_icons=true&theme=tokyonight&hide_border=true"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihadrasulzada&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -116,7 +116,7 @@ email:      dev.nihad.rasulzada@outlook.com
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NihadRasulzada&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=NihadRasulzada&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -126,7 +126,7 @@ email:      dev.nihad.rasulzada@outlook.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nihadrasulzada&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nihadrasulzada&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -136,11 +136,7 @@ email:      dev.nihad.rasulzada@outlook.com
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NihadRasulzada/NihadRasulzada/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NihadRasulzada/NihadRasulzada/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://github.com/NihadRasulzada/NihadRasulzada/blob/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://raw.githubusercontent.com/NihadRasulzada/NihadRasulzada/output/github-contribution-grid-snake.gif" alt="github contribution grid snake animation"/>
 
 </div>
 
