@@ -126,7 +126,7 @@ email:      dev.nihad.rasulzada@outlook.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nihadrasulzada&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=NihadRasulzada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 </div>
 
@@ -136,7 +136,11 @@ email:      dev.nihad.rasulzada@outlook.com
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NihadRasulzada/NihadRasulzada/output/github-contribution-grid-snake.gif" alt="github contribution grid snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NihadRasulzada/NihadRasulzada/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NihadRasulzada/NihadRasulzada/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NihadRasulzada/NihadRasulzada/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
