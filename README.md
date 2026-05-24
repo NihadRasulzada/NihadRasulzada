@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/▶_STATUS-Open%20to%20Work-64ffda?style=flat-square&labelColor=0d1117)
 &nbsp;
-![Location](https://img.shields.io/badge/📍 LOCATION-Istanbul%2C%20Turkey-ccd6f6?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_LOCATION-Istanbul%2C%20Turkey-ccd6f6?style=flat-square&labelColor=0d1117)
 &nbsp;
 ![Focus](https://img.shields.io/badge/🎯_FOCUS-Clean%20Architecture-a78bfa?style=flat-square&labelColor=0d1117)
 &nbsp;
