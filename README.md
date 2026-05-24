@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/▶_STATUS-Open%20to%20Work-64ffda?style=flat-square&labelColor=0d1117)
 &nbsp;
-![Location](https://img.shields.io/badge/📍_LOCATION-Baku%2C%20Azerbaijan-ccd6f6?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍 LOCATION-Istanbul%2C%20Turkey-ccd6f6?style=flat-square&labelColor=0d1117)
 &nbsp;
 ![Focus](https://img.shields.io/badge/🎯_FOCUS-Clean%20Architecture-a78bfa?style=flat-square&labelColor=0d1117)
 &nbsp;
@@ -28,7 +28,7 @@
 profile:
   name:      "Nihad Rasulzada"
   role:      ".NET Backend Developer"
-  location:  "Baku, Azerbaijan 🇦🇿"
+    location: "Istanbul, Turkey 🇹🇷"
   email:     "dev.nihad.rasulzada@outlook.com"
 
 passion:
@@ -40,6 +40,7 @@ languages:
   azerbaijani: C1   # native
   english:     B1
   german:      A2
+  turkish:    C1  # current country
 
 status: "available_for_new_opportunities ✅"
 ```
@@ -147,21 +148,28 @@ status: "available_for_new_opportunities ✅"
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  commit [3/3]  ·  Mar 2024 → Jan 2025
+commit [4/4]  ·  Feb 2026 → Present
+├── Company : DEVIT GROUP MMC
+├── Role    : .NET Backend Developer
+├── Stack   : ASP.NET Core · Entity Framework · REST APIs
+└── Scope   : Backend services · System integration · Feature dev
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  commit [3/4]  ·  Mar 2024 → Jan 2025
   ├── Company  :  ITB Techno
   ├── Role     :  Junior .NET Developer
   ├── Impact   :  50% performance boost on production systems
   └── Scope    :  Core feature dev · Bug resolution · Custom tooling
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  commit [2/3]  ·  Jan 2024 → May 2024
+  commit [2/4]  ·  Jan 2024 → May 2024
   ├── Company  :  It Brains Academy
   ├── Role     :  Teacher Assistant
   ├── Partner  :  Microsoft (curriculum collaboration)
   └── Scope    :  C# · SQL · ASP.NET · Student assessment system
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  commit [1/3]  ·  May 2023 → Feb 2024
+  commit [1/4]  ·  May 2023 → Feb 2024
   ├── Company  :  UpTech
   ├── Role     :  Junior .NET Developer
   ├── Impact   :  Up to 50% performance enhancement
